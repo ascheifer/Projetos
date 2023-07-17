@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋, Eu sou o Abrahão Scheifer</h1>
-<h3 align="center">Apaixonado pelas áreas de Ciência de Dados e Economia</h3>
+<h1 align="center">Olá!👋 Eu sou o Abrahão Scheifer</h1>
+<h3 align="center">Um apaixonado pelas áreas de Ciência de Dados e Economia</h3>
 
-- 🔭 Atualmente estou trabalhando com incubação de projetos tecnológicos
+- 🔭 Atualmente estou trabalhando na **Universidade Estadual de Ponta Grossa - UEPG**
 - 🌱 Cursando o último semestre em Tecnologia em Big Data e Inteligência Analítica na PUC-PR
 - 💬 Conhecimentos em: **Estatística, Excel, Power BI, SQL e Python**
-- 📫 Você me acha através do e-mail: **ascheifer@outlook.com**
-- 📄 Conheça mais sobre mim: [https://www.linkedin.com/in/abrah%C3%A3o-scheifer/](https://www.linkedin.com/in/abrah%C3%A3o-scheifer/)
+- 📫 Fale comigo em: **ascheifer@outlook.com**
+- 📄 Conheça mais sobre mim: [https://www.linkedin.com/in/abrahao-scheifer/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
