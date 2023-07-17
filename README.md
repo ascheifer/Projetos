@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na **Universidade Estadual de Ponta Grossa - UEPG**
 - 🌱 Tecnólogo em Big Data e Inteligência Analítica, Economista e Especialista em Controladoria e Finanças
-- 💬 Hbilidades: **Estatística, Excel, Power BI, SQL e Python**
+- 💬 Habilidades: **Estatística, Excel, Power BI, SQL e Python**
 - 📫 Entre em contato comigo: **ascheifer@outlook.com**
 - 📄 Saiba mais sobre mim: https://www.linkedin.com/in/abrahao-scheifer/
 
